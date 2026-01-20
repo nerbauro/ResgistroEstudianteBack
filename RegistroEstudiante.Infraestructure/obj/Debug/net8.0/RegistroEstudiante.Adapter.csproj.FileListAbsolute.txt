@@ -1,0 +1,38 @@
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Application.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Application.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\Registro.13A741B7.Up2Date
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\refint\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\ref\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.runtimeconfig.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.runtimeconfig.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Adapter.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Application.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Application.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\bin\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\Registro.13A741B7.Up2Date
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\refint\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\RegistroEstudiante.Adapter.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Infraestructure\obj\Debug\net8.0\ref\RegistroEstudiante.Adapter.dll

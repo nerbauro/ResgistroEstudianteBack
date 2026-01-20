@@ -1,0 +1,110 @@
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\appsettings.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.staticwebassets.endpoints.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.exe
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.runtimeconfig.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Application.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Application.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Adapter.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\scopedcss\bundle\ResgistroEstudiante.styles.css
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\Resgistr.EF60B5E0.Up2Date
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\refint\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\obj\Debug\net8.0\ref\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\ResgistroEstudiante\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\appsettings.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.staticwebassets.endpoints.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.exe
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.runtimeconfig.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\ResgistroEstudiante.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Adapter.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Application.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Application.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Adapter.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\bin\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\scopedcss\bundle\ResgistroEstudiante.styles.css
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\Resgistr.EF60B5E0.Up2Date
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\refint\ResgistroEstudiante.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ResgistroEstudiante.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\ResgistroEstudiante\obj\Debug\net8.0\ref\ResgistroEstudiante.dll

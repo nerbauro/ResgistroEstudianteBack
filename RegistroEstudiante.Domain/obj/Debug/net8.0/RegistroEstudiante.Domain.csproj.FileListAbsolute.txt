@@ -1,0 +1,24 @@
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\bin\Debug\net8.0\RegistroEstudiante.Domain.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\bin\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\bin\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\refint\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\REGISTROESTUDIANTE\ResgistroEstudiante\RegistroEstudiante.Domain\obj\Debug\net8.0\ref\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\bin\Debug\net8.0\RegistroEstudiante.Domain.deps.json
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\bin\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\bin\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\refint\RegistroEstudiante.Domain.dll
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\RegistroEstudiante.Domain.pdb
+C:\Users\USUARIO\Documents\PROYECTOS\PRUEBA INTER\BACK\ResgistroEstudianteBack\RegistroEstudiante.Domain\obj\Debug\net8.0\ref\RegistroEstudiante.Domain.dll
