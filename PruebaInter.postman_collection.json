@@ -1,0 +1,542 @@
+{
+  "info": {
+    "_postman_id": "2ba406e0-feb5-4ffa-94af-3a2e09ea15a8",
+    "name": "PruebaInter",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "36396977"
+  },
+  "item": [
+    {
+      "name": "Login",
+      "item": [
+        {
+          "name": "Token",
+          "request": {
+            "auth": {
+              "type": "noauth"
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"codigo\": \"admin\",\r\n  \"clave\": \"admin1123\"\r\n}\r\n",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/auth/login",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "auth",
+                "login"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Usuario",
+      "item": [
+        {
+          "name": "Consultar Usuario",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materia/consultar",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materia",
+                "consultar"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Crear Usuario",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOlsiVXN1YXJpby5DcmVhciIsIlVzdWFyaW8uRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJhZG1pbiIsImV4cCI6MTc2ODcxNzY2MSwiaXNzIjoiUmVnaXN0cm9Fc3R1ZGlhbnRlQXBpIiwiYXVkIjoiUmVnaXN0cm9Fc3R1ZGlhbnRlRnJvbnRlbmQifQ.QZjeUryLyvYoVYwO3zw-CMZMDT9L-zyXG0C220010OI",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"codigo\": \"1090409011\",\r\n  \"nombre\": \"Nestor Eduardo Bautista\",\r\n  \"clave\": \"prueba123\",\r\n  \"email\": \"nestorbauqgmail.com\",\r\n  \"rolId\": 3\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/usuarios/Crear",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "usuarios",
+                "Crear"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Editar Usuario",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOlsiVXN1YXJpby5DcmVhciIsIlVzdWFyaW8uRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJhZG1pbiIsImV4cCI6MTc2ODcxNzY2MSwiaXNzIjoiUmVnaXN0cm9Fc3R1ZGlhbnRlQXBpIiwiYXVkIjoiUmVnaXN0cm9Fc3R1ZGlhbnRlRnJvbnRlbmQifQ.QZjeUryLyvYoVYwO3zw-CMZMDT9L-zyXG0C220010OI",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"codigo\": \"1090409011\",\r\n  \"nombre\": \"Nestor Eduardo Bautista\",\r\n  \"clave\": \"prueba123\",\r\n  \"email\": \"nestorbauqgmail.com\",\r\n  \"rolId\": 3\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/usuarios/Editar",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "usuarios",
+                "Editar"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Marteria",
+      "item": [
+        {
+          "name": "Consultar Materia",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materia/consultar",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materia",
+                "consultar"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Consultar Materia Por Codigo",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materia/ConsultarPorCodigo?codigo=CAL000011",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materia",
+                "ConsultarPorCodigo"
+              ],
+              "query": [
+                {
+                  "key": "codigo",
+                  "value": "CAL000011",
+                  "type": "text"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Crear Materia",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"id\": 0,\r\n  \"codigo\": \"CAL0002\",\r\n  \"descripcion\": \"Cálculo 2\",\r\n  \"creditos\": 3\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materia/Crear",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materia",
+                "Crear"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Editar Materia",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"codigo\": \"1090409011\",\r\n  \"nombre\": \"Nestor Eduardo Bautista\",\r\n  \"clave\": \"prueba123\",\r\n  \"email\": \"nestorbauqgmail.com\",\r\n  \"rolId\": 3\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materia/editar",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materia",
+                "editar"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Materia Profesor",
+      "item": [
+        {
+          "name": "Crear Materia Profesor",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIiwiTWF0ZXJpYVByb2Zlc29yLkNyZWFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciIsIk1hdGVyaWFQcm9mZXNvci5DcmVhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Nzc0MzksImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.PzAaF0c3xr3BHVY3h7MYuf-Zq-g6NKbnIJlqcWCzUA4",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"id\": 0,\r\n  \"idMateria\": 1,\r\n  \"idProfesor\": 3\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materiaProfesor/Crear",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materiaProfesor",
+                "Crear"
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Materia Estudiante",
+      "item": [
+        {
+          "name": "Crear Materia Estudiante",
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIiwiTWF0ZXJpYVByb2Zlc29yLkNyZWFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciIsIk1hdGVyaWFQcm9mZXNvci5DcmVhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Nzc0MzksImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.PzAaF0c3xr3BHVY3h7MYuf-Zq-g6NKbnIJlqcWCzUA4",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "POST",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\r\n  \"id\": 0,\r\n  \"idMateria\": 1,\r\n  \"idEstudiante\": 3\r\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materiaEstudiante/Crear",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materiaEstudiante",
+                "Crear"
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Consultar Materia Compartida",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materiaEstudiante/ObtenerMateriaCompartida?idEstudiante=4",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materiaEstudiante",
+                "ObtenerMateriaCompartida"
+              ],
+              "query": [
+                {
+                  "key": "idEstudiante",
+                  "value": "4"
+                }
+              ]
+            }
+          },
+          "response": []
+        },
+        {
+          "name": "Consultar Materia Profesor",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "auth": {
+              "type": "bearer",
+              "bearer": [
+                {
+                  "key": "token",
+                  "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJtaXNvIjpbIlVzdWFyaW8uQ3JlYXIiLCJVc3VhcmlvLkVkaXRhciIsIlVzdWFyaW8uQ29uc3VsdGFyIiwiVXN1YXJpby5Db25zdWx0YXJQb3JDb2RpZ28iLCJNYXRlcmlhLkNvbnN1bHRhciIsIk1hdGVyaWEuQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5DcmVhciIsIk1hdGVyaWEuRWRpdGFyIl0sImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6WyJVc3VhcmlvLkNyZWFyIiwiVXN1YXJpby5FZGl0YXIiLCJVc3VhcmlvLkNvbnN1bHRhciIsIlVzdWFyaW8uQ29uc3VsdGFyUG9yQ29kaWdvIiwiTWF0ZXJpYS5Db25zdWx0YXIiLCJNYXRlcmlhLkNvbnN1bHRhclBvckNvZGlnbyIsIk1hdGVyaWEuQ3JlYXIiLCJNYXRlcmlhLkVkaXRhciJdLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYWRtaW4iLCJleHAiOjE3Njg3Njk3NTYsImlzcyI6IlJlZ2lzdHJvRXN0dWRpYW50ZUFwaSIsImF1ZCI6IlJlZ2lzdHJvRXN0dWRpYW50ZUZyb250ZW5kIn0.e0lKhg-8dZHLEjvRNWXErkssUUbnw8-dSgAvSdk7Xxs",
+                  "type": "string"
+                }
+              ]
+            },
+            "method": "GET",
+            "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
+            "url": {
+              "raw": "https://localhost:7000/api/materiaEstudiante/ObtenerMateriaEstudianteConProfesor?idEstudiante=4",
+              "protocol": "https",
+              "host": [
+                "localhost"
+              ],
+              "port": "7000",
+              "path": [
+                "api",
+                "materiaEstudiante",
+                "ObtenerMateriaEstudianteConProfesor"
+              ],
+              "query": [
+                {
+                  "key": "idEstudiante",
+                  "value": "4"
+                }
+              ]
+            }
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}
